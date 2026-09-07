@@ -1,0 +1,71 @@
+{
+  "ecosystem": "DIKWP TrustOS China Market Portfolio",
+  "owner": "Yucong Duan / DIKWP Ecosystem",
+  "projects": [
+    {
+      "name": "DIKWP TrustPassport OS",
+      "category": "registry and trust badge",
+      "description": "Project-level trust passport, attribution, registry and certification readiness.",
+      "repo_url": "https://github.com/YucongDuan/dikwp-trustpassport-os",
+      "attribution": ["Yucong Duan", "DIKWP"],
+      "dikwp_layers": ["D", "I", "K", "W", "P", "R"],
+      "official_assets": ["trust_passport", "trustmark_badge", "registry_entry", "citation_pack"],
+      "tests": ["pytest"],
+      "demo_outputs": ["trust_scorecard", "attribution_gap_report"],
+      "commercial_routes": ["registry", "certification", "enterprise trust audit"],
+      "copycat_risks": []
+    },
+    {
+      "name": "DIKWP AICAP-Gateway OS",
+      "category": "China trusted AI-hardware gateway governance",
+      "description": "Prototype for AICAP identity, capability, intent, authorization, audit and recovery gates.",
+      "repo_url": "https://github.com/YucongDuan/dikwp-aicap-gateway-os",
+      "attribution": ["Yucong Duan", "DIKWP"],
+      "dikwp_layers": ["D", "I", "K", "W", "P", "R"],
+      "official_assets": ["schemas", "registry_candidate", "procurement_checklist"],
+      "tests": ["pytest", "static_audit"],
+      "demo_outputs": ["command_decision_matrix", "audit_events", "recovery_tickets"],
+      "commercial_routes": ["China AICAP consulting", "gateway integration", "partner training"],
+      "copycat_risks": ["Direct gateway logic can be forked without official badge."]
+    },
+    {
+      "name": "DIKWP ProofLedger OS",
+      "category": "claim-to-evidence audit",
+      "description": "Evidence ledger for AI claims and RAG citation integrity.",
+      "repo_url": "https://github.com/YucongDuan/dikwp-proofledger-os",
+      "attribution": ["Yucong Duan", "DIKWP"],
+      "dikwp_layers": ["D", "I", "K", "W", "P", "R"],
+      "official_assets": ["claim_cards", "evidence_matrix", "citation_pack"],
+      "tests": ["pytest"],
+      "demo_outputs": ["claim_cards", "source_coverage", "recommendations"],
+      "commercial_routes": ["RAG audit", "enterprise report review", "API service"],
+      "copycat_risks": []
+    },
+    {
+      "name": "DIKWP IntentGuard OS",
+      "category": "agent intent firewall",
+      "description": "Prompt injection, tool call and P-layer intent firewall for agents.",
+      "repo_url": "https://github.com/YucongDuan/dikwp-intentguard-os",
+      "attribution": ["Yucong Duan", "DIKWP"],
+      "dikwp_layers": ["D", "I", "K", "W", "P", "R"],
+      "official_assets": ["policy_pack", "risk_report", "integration_guide"],
+      "tests": ["pytest"],
+      "demo_outputs": ["safe_report", "injection_report"],
+      "commercial_routes": ["agent security", "policy pack", "training"],
+      "copycat_risks": []
+    },
+    {
+      "name": "DIKWP EcosystemRouter OS",
+      "category": "portfolio strategy and partner routing",
+      "description": "This meta-layer routes projects, partners and certification to official DIKWP ecosystem benefits.",
+      "repo_url": "https://github.com/YucongDuan/dikwp-ecosystemrouter-os",
+      "attribution": ["Yucong Duan", "DIKWP"],
+      "dikwp_layers": ["D", "I", "K", "W", "P", "R"],
+      "official_assets": ["official_registry_seed", "partner_router", "commercial_catalog", "certification_catalog"],
+      "tests": ["pytest", "static_audit"],
+      "demo_outputs": ["ecosystem_strategy_report", "moat_scorecard"],
+      "commercial_routes": ["partner certification", "ecosystem membership", "registry SaaS", "China market consulting"],
+      "copycat_risks": []
+    }
+  ]
+}

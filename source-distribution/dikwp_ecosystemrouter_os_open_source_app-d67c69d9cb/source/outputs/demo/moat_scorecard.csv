@@ -1,0 +1,8 @@
+type,name,score,level,risk_count,recommendation_count
+project,DIKWP TrustPassport OS,0.92,registry_ready,0,0
+project,DIKWP AICAP-Gateway OS,0.89,registry_ready,1,1
+project,DIKWP ProofLedger OS,0.92,registry_ready,0,0
+project,DIKWP IntentGuard OS,0.92,registry_ready,0,0
+project,DIKWP EcosystemRouter OS,0.92,registry_ready,0,0
+partner,China Trusted AI Integration Partner Demo,0.84,accept_as_registered_partner_candidate,2,1
+copycat,Unattributed Semantic AI Gateway Demo,1.0,high_copycat_risk,4,3

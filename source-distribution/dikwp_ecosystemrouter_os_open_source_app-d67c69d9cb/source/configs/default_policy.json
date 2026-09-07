@@ -1,0 +1,8 @@
+{
+  "min_partner_score": 0.72,
+  "min_registry_score": 0.68,
+  "copycat_high_risk_threshold": 0.60,
+  "require_attribution": true,
+  "require_citation": true,
+  "require_registry_for_badge": true
+}

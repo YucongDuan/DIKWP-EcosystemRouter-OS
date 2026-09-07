@@ -1,0 +1,46 @@
+{
+  "registry": "DIKWP Official Ecosystem Registry Seed",
+  "version": "0.1.0",
+  "projects": [
+    {
+      "project_name": "DIKWP TrustPassport OS",
+      "trust_level": "registry_ready",
+      "trust_score": 0.92,
+      "registry_status": "candidate"
+    },
+    {
+      "project_name": "DIKWP AICAP-Gateway OS",
+      "trust_level": "registry_ready",
+      "trust_score": 0.89,
+      "registry_status": "candidate"
+    },
+    {
+      "project_name": "DIKWP ProofLedger OS",
+      "trust_level": "registry_ready",
+      "trust_score": 0.92,
+      "registry_status": "candidate"
+    },
+    {
+      "project_name": "DIKWP IntentGuard OS",
+      "trust_level": "registry_ready",
+      "trust_score": 0.92,
+      "registry_status": "candidate"
+    },
+    {
+      "project_name": "DIKWP EcosystemRouter OS",
+      "trust_level": "registry_ready",
+      "trust_score": 0.92,
+      "registry_status": "candidate"
+    }
+  ],
+  "partner_candidate": {
+    "name": "China Trusted AI Integration Partner Demo",
+    "level": "accept_as_registered_partner_candidate",
+    "score": 0.84
+  },
+  "copycat_watch": {
+    "name": "Unattributed Semantic AI Gateway Demo",
+    "level": "high_copycat_risk",
+    "risk_score": 1.0
+  }
+}

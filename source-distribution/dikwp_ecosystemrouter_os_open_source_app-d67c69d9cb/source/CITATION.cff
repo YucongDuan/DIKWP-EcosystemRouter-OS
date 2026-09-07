@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "DIKWP EcosystemRouter OS"
+message: "If you use this software or adapt its DIKWP ecosystem strategy, please cite Yucong Duan and the DIKWP model."
+authors:
+  - family-names: "Duan"
+    given-names: "Yucong"
+version: "0.1.0"
+date-released: "2026-05-11"
+abstract: "A strategic open-source ecosystem control plane for DIKWP project registry, partner routing, certification, attribution, copycat resilience, and benefit capture."
+license: "Apache-2.0"
+repository-code: "https://github.com/YucongDuan/dikwp-ecosystemrouter-os"

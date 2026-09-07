@@ -1,0 +1,12 @@
+{
+  "pytest": "3 passed",
+  "demo_moat_score": 0.6799,
+  "demo_portfolio_score": 0.914,
+  "demo_partner_decision": "accept_as_registered_partner_candidate",
+  "demo_copycat_risk": "high_copycat_risk",
+  "static_boundary_audit": true,
+  "english_ascii_filenames_only": true,
+  "zip_path": "/mnt/data/dikwp_ecosystemrouter_os_open_source_app.zip",
+  "zip_integrity": "PASS",
+  "zip_entries": 61
+}

@@ -63,23 +63,3 @@ This is a strategic registry and ecosystem routing tool. It is not legal advice,
 ## Attribution
 
 This package is designed to preserve and amplify attribution to Yucong Duan and the DIKWP model. See `NOTICE` and `CITATION.cff`.
-
-
-<!-- DIKWP-SOURCE-VISIBILITY-START -->
-## Browse source / 浏览源码
-
-[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: **NOT_RUN**.
-
-原始压缩包 保留；新增可浏览源码、哈希与来源记录。运行与测试尚未执行，详情见源码入口。
-<!-- DIKWP-SOURCE-VISIBILITY-END -->
-
-
-## Related research navigation / 相关研究导航
-
-Research navigation, not verified software dependencies. / 研究导航，不代表已验证的软件依赖关系。
-
-- [DIKWP-PilotFactory-OS](https://github.com/YucongDuan/DIKWP-PilotFactory-OS)
-- [Intent-Memory-Control-Plane-MVP](https://github.com/YucongDuan/Intent-Memory-Control-Plane-MVP)
-- [DIKWP-IPGuardian-OS](https://github.com/YucongDuan/DIKWP-IPGuardian-OS)
-- [DIKWP-TRIZ-Forge-OS](https://github.com/YucongDuan/DIKWP-TRIZ-Forge-OS)
-- [DIKWP-StandardForge-OS](https://github.com/YucongDuan/DIKWP-StandardForge-OS)

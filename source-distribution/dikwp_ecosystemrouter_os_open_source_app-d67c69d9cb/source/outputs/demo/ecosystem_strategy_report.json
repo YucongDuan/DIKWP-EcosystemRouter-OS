@@ -1,0 +1,149 @@
+{
+  "system": "DIKWP EcosystemRouter OS",
+  "version": "0.1.0",
+  "portfolio_score": 0.914,
+  "moat_score": 0.6799,
+  "partner_score": 0.84,
+  "copycat_risk_score": 1.0,
+  "official_registry_ready_count": 5,
+  "recommended_strategy": "publish_with_human_partner_review_and_strengthen_registry_citation_assets",
+  "project_scores": [
+    {
+      "name": "DIKWP TrustPassport OS",
+      "score": 0.92,
+      "level": "registry_ready",
+      "reasons": [
+        "Explicit Yucong Duan / DIKWP attribution present.",
+        "Strong DIKWP layer coverage.",
+        "Tests are declared.",
+        "Demo outputs are declared.",
+        "Official ecosystem assets are present.",
+        "Commercial routes are visible."
+      ],
+      "risks": [],
+      "recommendations": []
+    },
+    {
+      "name": "DIKWP AICAP-Gateway OS",
+      "score": 0.89,
+      "level": "registry_ready",
+      "reasons": [
+        "Explicit Yucong Duan / DIKWP attribution present.",
+        "Strong DIKWP layer coverage.",
+        "Tests are declared.",
+        "Demo outputs are declared.",
+        "Official ecosystem assets are present.",
+        "Commercial routes are visible."
+      ],
+      "risks": [
+        "Direct gateway logic can be forked without official badge."
+      ],
+      "recommendations": [
+        "Mitigate copycat risks through registry, badge, partner program, and evidence ledger."
+      ]
+    },
+    {
+      "name": "DIKWP ProofLedger OS",
+      "score": 0.92,
+      "level": "registry_ready",
+      "reasons": [
+        "Explicit Yucong Duan / DIKWP attribution present.",
+        "Strong DIKWP layer coverage.",
+        "Tests are declared.",
+        "Demo outputs are declared.",
+        "Official ecosystem assets are present.",
+        "Commercial routes are visible."
+      ],
+      "risks": [],
+      "recommendations": []
+    },
+    {
+      "name": "DIKWP IntentGuard OS",
+      "score": 0.92,
+      "level": "registry_ready",
+      "reasons": [
+        "Explicit Yucong Duan / DIKWP attribution present.",
+        "Strong DIKWP layer coverage.",
+        "Tests are declared.",
+        "Demo outputs are declared.",
+        "Official ecosystem assets are present.",
+        "Commercial routes are visible."
+      ],
+      "risks": [],
+      "recommendations": []
+    },
+    {
+      "name": "DIKWP EcosystemRouter OS",
+      "score": 0.92,
+      "level": "registry_ready",
+      "reasons": [
+        "Explicit Yucong Duan / DIKWP attribution present.",
+        "Strong DIKWP layer coverage.",
+        "Tests are declared.",
+        "Demo outputs are declared.",
+        "Official ecosystem assets are present.",
+        "Commercial routes are visible."
+      ],
+      "risks": [],
+      "recommendations": []
+    }
+  ],
+  "partner_result": {
+    "name": "China Trusted AI Integration Partner Demo",
+    "score": 0.84,
+    "level": "accept_as_registered_partner_candidate",
+    "reasons": [
+      "Partner commits to DIKWP attribution.",
+      "Partner commits to citation discipline.",
+      "Partner agrees to official registry route.",
+      "Partner is interested in certification.",
+      "Partner is open to revenue-sharing or commercial cooperation.",
+      "Partner declares implementation or market capabilities."
+    ],
+    "risks": [
+      "Missing: signed partner agreement",
+      "Missing: formal trademark review"
+    ],
+    "recommendations": [
+      "Route to official partner onboarding and training package."
+    ]
+  },
+  "copycat_result": {
+    "name": "Unattributed Semantic AI Gateway Demo",
+    "score": 1.0,
+    "level": "high_copycat_risk",
+    "reasons": [
+      "Copycat score measures attribution, registry bypass, false certification and commercial appropriation risk."
+    ],
+    "risks": [
+      "Missing attribution commitment.",
+      "Missing citation commitment.",
+      "No official registry route.",
+      "Text contains copycat or false-certification indicators."
+    ],
+    "recommendations": [
+      "Do not grant badge without verified attribution and registry entry.",
+      "Generate public clarification and partner outreach pack if DIKWP terminology is used without citation.",
+      "Prefer ecosystem routing, certification and training benefits over exposing core strategic assets."
+    ]
+  },
+  "commercial_routes": [
+    "API service",
+    "China AICAP consulting",
+    "China market consulting",
+    "RAG audit",
+    "agent security",
+    "certification",
+    "ecosystem membership",
+    "enterprise report review",
+    "enterprise trust audit",
+    "gateway integration",
+    "partner certification",
+    "partner training",
+    "policy pack",
+    "registry",
+    "registry SaaS",
+    "training"
+  ],
+  "boundary": "This is an ecosystem routing and certification scaffold, not a legal guarantee or official regulatory approval."
+}

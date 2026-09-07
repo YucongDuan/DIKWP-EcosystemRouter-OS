@@ -1,0 +1,21 @@
+{
+  "copycat": {
+    "name": "Unattributed Semantic AI Gateway Demo",
+    "score": 1.0,
+    "level": "high_copycat_risk",
+    "reasons": [
+      "Copycat score measures attribution, registry bypass, false certification and commercial appropriation risk."
+    ],
+    "risks": [
+      "Missing attribution commitment.",
+      "Missing citation commitment.",
+      "No official registry route.",
+      "Text contains copycat or false-certification indicators."
+    ],
+    "recommendations": [
+      "Do not grant badge without verified attribution and registry entry.",
+      "Generate public clarification and partner outreach pack if DIKWP terminology is used without citation.",
+      "Prefer ecosystem routing, certification and training benefits over exposing core strategic assets."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "partner": {
+    "name": "China Trusted AI Integration Partner Demo",
+    "score": 0.84,
+    "level": "accept_as_registered_partner_candidate",
+    "reasons": [
+      "Partner commits to DIKWP attribution.",
+      "Partner commits to citation discipline.",
+      "Partner agrees to official registry route.",
+      "Partner is interested in certification.",
+      "Partner is open to revenue-sharing or commercial cooperation.",
+      "Partner declares implementation or market capabilities."
+    ],
+    "risks": [
+      "Missing: signed partner agreement",
+      "Missing: formal trademark review"
+    ],
+    "recommendations": [
+      "Route to official partner onboarding and training package."
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "applicant_name": "Unattributed Semantic AI Gateway Demo",
+  "country_market": "China",
+  "organization_type": "commercial service vendor",
+  "proposed_use": "Rebrand DIKWP concepts as our own semantic AI gateway and claim official certification. Remove attribution and use exclusive owner language in sales materials.",
+  "attribution_commitment": false,
+  "citation_commitment": false,
+  "official_registry_commitment": false,
+  "certification_interest": false,
+  "revenue_share_interest": false,
+  "partner_capabilities": ["sales", "marketing"],
+  "risky_claims": ["official certification without approval", "exclusive owner", "guaranteed government approved"],
+  "missing_items": ["Yucong Duan attribution", "CITATION.cff", "registry entry", "evidence ledger", "official authorization"]
+}

@@ -1,0 +1,6 @@
+{
+  "pass": true,
+  "finding_count": 0,
+  "findings": [],
+  "policy": "No network imports, subprocess, dynamic execution, hidden telemetry, host mutation, or real-world actuation helpers in the offline core."
+}
